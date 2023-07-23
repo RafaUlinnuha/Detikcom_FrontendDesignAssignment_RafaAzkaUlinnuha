@@ -6,7 +6,7 @@
                 <div class="flex flex-col flex-wrap space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 1.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 1">
+                            <img src="/Artikel/Foto-1.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 1">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Alpha JWC Ventures Suntikkan Dana Segar kepada OnlinePajak dan Stoqo
@@ -19,7 +19,7 @@
                 <div class="flex flex-col flex-wrap space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 2.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 2">
+                            <img src="/Artikel/Foto-2.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 2">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Startup Lifepack Rampungkan Pendanaan Seri A yang Dipimpin Golden Gate Ventures
@@ -32,7 +32,7 @@
                 <div class="space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 3.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 3">
+                            <img src="/Artikel/Foto-3.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 3">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Angel Investor Adalah? Berikut Jenis, Contoh dan Cara Mendapatkannya
@@ -45,7 +45,7 @@
                 <div class="space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 4.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 4">
+                            <img src="/Artikel/Foto-4.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 4">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Crowe Indonesia Gelar Diskusi terkait Valuasi Startup & Laporan ESG
@@ -58,7 +58,7 @@
                 <div class="space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 5.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 5">
+                            <img src="/Artikel/Foto-5.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 5">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Startup Fresh Factory Bangun Ratusan Gudang Dingin di 103 Kota
@@ -71,7 +71,7 @@
                 <div class="space-y-3">
                     <div class="group space-y-3">
                         <div class="overflow-hidden rounded-lg">
-                            <img src="/Artikel/Foto 6.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 6">
+                            <img src="/Artikel/Foto-6.png" class="transition ease-in-out group-hover:scale-110" alt="Artikel 6">
                         </div>
                         <h2 class="font-bold text-sm group-hover:text-[#007CBD]">
                             Startup Pertanian RI Dapat Pendanaan Awal, Totalnya Rp 90 M

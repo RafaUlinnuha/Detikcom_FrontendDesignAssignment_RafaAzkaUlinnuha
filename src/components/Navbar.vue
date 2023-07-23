@@ -2,7 +2,7 @@
     <nav class="hidden md:block bg-[#007CBD] fixed w-full z-20 top-0 left-0">
         <div class="max-w-screen-xl p-4 lg:px-24 xl:px-0 flex flex-wrap items-center justify-between mx-auto">
             <a href="#" class="flex items-center">
-                <img src="/Navbar Brand.png" class="h-8 md:h-10" alt="detikfinance Logo">
+                <img src="/Navbar-Brand.png" class="h-8 md:h-10" alt="detikfinance Logo">
             </a>
             <div class="flex space-x-8 font-medium text-sm">
                 <div class="items-center justify-between flex w-auto">

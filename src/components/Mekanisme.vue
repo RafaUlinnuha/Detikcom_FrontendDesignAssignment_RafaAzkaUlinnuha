@@ -4,7 +4,7 @@
             <h1 class="text-4xl md:text-5xl mb-4 md:mb-8 font-bold md:mt-6">Mekanisme</h1>
             <div class="w-full px-[30px] py-6 md:py-8 bg-white rounded-xl md:flex mb-6 md:mb-[25px] items-start">
                 <div>
-                    <img src="/Registrasi Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Registrasi Icon">
+                    <img src="/Registrasi-Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Registrasi Icon">
                 </div>
                 <div class="md:ml-8 mt-3 md:mt-0 space-y-2 md:space-y-0">
                     <div class="md:flex justify-between text-[#007CBD] mb-1.5 space-y-1 md:space-y-0">
@@ -23,7 +23,7 @@
             </div>
             <div class="w-full px-[30px] py-6 md:py-8 bg-white rounded-xl md:flex mb-6 md:mb-[25px] items-start">
                 <div>
-                    <img src="/Checklist Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Checklist Icon">
+                    <img src="/Checklist-Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Checklist Icon">
                 </div>
                 <div class="md:ml-8 mt-3 md:mt-0 space-y-2 md:space-y-0">
                     <div class="md:flex justify-between text-[#007CBD] mb-1.5 space-y-1 md:space-y-0">
@@ -45,7 +45,7 @@
             </div>
             <div class="w-full px-[30px] py-6 md:py-8 bg-white rounded-xl md:flex mb-6 md:mb-[25px] items-start">
                 <div>
-                    <img src="/Chosen Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Chosen Icon">
+                    <img src="/Chosen-Icon.png" class="md:w-24 lg:w-[70px] h-[55px]" alt="Chosen Icon">
                 </div>
                 <div class="md:ml-8 mt-3 md:mt-0 space-y-2 md:space-y-0">
                     <div class="md:flex justify-between text-[#007CBD] mb-1.5 space-y-1 md:space-y-0">
