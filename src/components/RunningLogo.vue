@@ -7,14 +7,14 @@ Serta Menjadi Narasumber di Detikfinance</h1>
                 :pause-on-click="true"
                 :duration="70"
             >
-                <img src="/Logo/Frame 12320.png" class="mr-6" alt="Logo 1">
-                <img src="/Logo/Frame 12321.png" class="mr-6" alt="Logo 2">
-                <img src="/Logo/Frame 12322.png" class="mr-6" alt="Logo 3">
-                <img src="/Logo/Frame 12323.png" class="mr-6" alt="Logo 4">
-                <img src="/Logo/Frame 12324.png" class="mr-6" alt="Logo 5">
-                <img src="/Logo/Frame 12325.png" class="mr-6" alt="Logo 6">
-                <img src="/Logo/Frame 12326.png" class="mr-6" alt="Logo 7">
-                <img src="/Logo/Frame 12327.png" class="mr-6" alt="Logo 8">
+                <img src="/Logo/Frame-12320.png" class="mr-6" alt="Logo 1">
+                <img src="/Logo/Frame-12321.png" class="mr-6" alt="Logo 2">
+                <img src="/Logo/Frame-12322.png" class="mr-6" alt="Logo 3">
+                <img src="/Logo/Frame-12323.png" class="mr-6" alt="Logo 4">
+                <img src="/Logo/Frame-12324.png" class="mr-6" alt="Logo 5">
+                <img src="/Logo/Frame-12325.png" class="mr-6" alt="Logo 6">
+                <img src="/Logo/Frame-12326.png" class="mr-6" alt="Logo 7">
+                <img src="/Logo/Frame-12327.png" class="mr-6" alt="Logo 8">
             </Vue3Marquee>
         </div>
         <div class="flex justify-center">
