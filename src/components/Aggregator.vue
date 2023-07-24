@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#F4FBFF] py-14">
+    <div class="bg-[#F4FBFF] py-24">
         <div class="xl:max-w-screen-xl mx-auto px-6 md:px-24 xl:px-16">
             <h1 class="font-bold text-[32px] text-[#007CBD] mb-8">Latest Update</h1>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

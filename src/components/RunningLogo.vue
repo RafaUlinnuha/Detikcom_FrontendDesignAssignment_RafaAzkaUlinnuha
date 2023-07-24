@@ -1,11 +1,11 @@
 <template>
-    <div class="bg-[#F4FBFF] py-20">
+    <div class="bg-[#F4FBFF] pt-24">
         <h1 class="max-w-screen-sm text-[#007CBD] text-lg leading-5 font-bold mx-auto text-center mb-[50px]">Dapatkan Kesempatan Dilirik oleh Venture Capital / Angel Investor
 Serta Menjadi Narasumber di Detikfinance</h1>
         <div class="mb-[50px]">
             <Vue3Marquee
                 :pause-on-click="true"
-                :duration="70"
+                :duration="10"
             >
                 <img src="/Logo/Frame-12320.png" class="mr-6" alt="Logo 1">
                 <img src="/Logo/Frame-12321.png" class="mr-6" alt="Logo 2">
