@@ -1,5 +1,5 @@
 <template> 
-    <section class="bg-[url('/Background-Hero-Section-Mobile.png')] md:bg-[url('/Background-Hero-Section.png')] bg-center">
+    <section class="bg-[url('/Background-Hero-Section-Mobile.png')] md:bg-[url('/Background-Hero-Section.png')] bg-center bg-cover">
         <div class="px-10 mx-auto md:text-center text-white py-[195px] md:py-60 lg:py-[410px]">
             <h1 class="text-xl mb-4 font-medium">Detikfinance Business Plan Competition 2023</h1>
             <h2 class="mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl lg:text-5xl">EMPOWERING INDONESIA STARTUP</h2>

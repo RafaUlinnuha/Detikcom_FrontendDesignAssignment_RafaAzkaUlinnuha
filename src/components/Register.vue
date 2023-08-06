@@ -4,7 +4,7 @@ import { Icon } from '@iconify/vue'
 
 <template>
     <section class="bg-[#F4FBFF]">
-        <section class="bg-[url('/Background-Header-Title.png')] md:bg-[url('/Background-Header-Title.png')] bg-center">
+        <section class="bg-[url('/Background-Header-Title.png')] md:bg-[url('/Background-Header-Title.png')] bg-center bg-cover">
             <div class="px-10 py-48 mx-auto md:text-center text-white">
                 <h1 class="text-5xl font-bold">Registrasi</h1>
             </div>        

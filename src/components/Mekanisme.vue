@@ -1,5 +1,5 @@
 <template> 
-    <section class="bg-[url('/Background-Mekanisme-Section-Mobile.png')] md:bg-[url('/Background-Mekanisme-Section.png')] bg-center">
+    <section class="bg-[url('/Background-Mekanisme-Section-Mobile.png')] md:bg-[url('/Background-Mekanisme-Section.png')] bg-center bg-cover">
         <div class="max-w-screen-md mx-auto text-white py-24 md:py-24 lg:py-24 px-6 md:px-24 lg:px-0">
             <h1 class="text-4xl md:text-5xl mb-4 md:mb-8 font-bold md:mt-6">Mekanisme</h1>
             <div class="w-full px-[30px] py-6 md:py-8 bg-white rounded-xl md:flex mb-6 md:mb-[25px] items-start">
